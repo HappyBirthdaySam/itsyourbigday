@@ -1,0 +1,55 @@
+body { 
+  background-image: url('tgcf pretty.jpg'); 
+  background-repeat:no-repeat;
+  position : center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#bod{
+	position: relative;
+}
+
+.overlays{
+	position: absolute;
+	top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	box-shadow: 3px 3px 2px black;
+	display: none;
+	border: 2px solid white;
+}
+
+p{
+	color: #040802;
+}
+
+h1{
+	color: #F9E076;
+}
+
+h1:hover{
+	color: #BE93D4;
+}
+
+#bie{
+	color: #051094;
+	display: inline;
+}
+
+#bie:hover{
+	color: #BE93D4;
+}
+
+.happy{
+	display: inline;
+}
+
+.birthday{
+	display: inline;
+}
+
+.kiri{
+	display: inline;
+}
